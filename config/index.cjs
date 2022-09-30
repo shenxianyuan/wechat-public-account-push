@@ -14,18 +14,18 @@ const USER_CONFIG = {
   APP_SECRET: '',
 
   PROVINCE: '广东',
-  CITY: '惠州',
+  CITY: '广州',
 
   USERS: [
     {
       // 想要发送的人的名字
-      name: '宝贝',
+      name: '仙缘',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'oT5K45shSgdJXAtE-vMdVNL_NQGg',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '',
+      useTemplateId: 'klqfb-bKlSivzP_cGRrvMdxwaB3ic8I72rKzy72JXfY',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '12-27',
+      horoscopeDate: '01-18',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
